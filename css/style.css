@@ -33,9 +33,14 @@ h2{
     margin: -150px;
 }
 
-
 .spacer2{
     margin:100px;
+}
+
+.wz{
+    margin-left: 35%;
+    margin-right: 35%;
+    width: 30%;
 }
 /*  SECTIONS  */
 .section {
