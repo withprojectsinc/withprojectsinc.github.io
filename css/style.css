@@ -42,6 +42,12 @@ h2{
     margin-right: 35%;
     width: 30%;
 }
+
+.print{
+    width: 47.5%;
+    margin-left: 26.25%;
+    margin-right: 26.25%;
+}
 /*  SECTIONS  */
 .section {
     clear: both;
