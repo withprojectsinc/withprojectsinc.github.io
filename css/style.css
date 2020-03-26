@@ -21,7 +21,7 @@ p {
 }
 
 h1{
-    font-size: 1.3vw;
+    font-size: 1.1w;
     line-height: 1.3;
     font-family: arial;
     color: white;
@@ -30,11 +30,12 @@ h1{
 }
 
 h2{
-    font-size: 1.3vw;
+    font-size: 1.1vw;
     line-height: 1.3;
     font-family: arial;
     color: white;
     margin-left: 0%;
+    margin-bottom: 20px;
 }
 
 
