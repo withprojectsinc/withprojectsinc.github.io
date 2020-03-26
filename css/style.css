@@ -21,6 +21,10 @@ p {
     color: white;
 }
 
+.sss{
+    margin-bottom: -25px;
+}
+
 .ss {
     font-size: 1.75vw;
     line-height: 1.3;
@@ -58,7 +62,7 @@ margin: 50vh;}
 }
 
 .spacer2{
-margin:3%;}
+margin:7.5vh;}
 
 
 .wz{
