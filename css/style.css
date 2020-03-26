@@ -78,6 +78,13 @@ margin:10vh;}
     margin-right: 26.25%;
 }
 
+  .mtext{
+        display: none;
+    }
+
+.dtext{
+    display: block;
+}
 
 
 /*  SECTIONS  */
@@ -192,7 +199,7 @@ img{
 @media only screen and (max-width: 600px) {
     p {
 /*    padding-left: -5%;*/
-    font-size: 3vw;
+    font-size: 4vw;
     line-height: 1.3;
     padding-bottom: 15px;
     font-family: arial;
@@ -215,7 +222,7 @@ margin: 150px;}
 margin:25px;}
 
     h2{
-    font-size: 2vw;
+    font-size: 3vw;
     line-height: 1.3;
     font-family: arial;
     color: white;
@@ -223,7 +230,43 @@ margin:25px;}
     margin-bottom: 15px;
 }
     
+    h1{
+        font-size: 3vw;
+    }
+    
+    .mtext{
+        display: block;
+    }
  
+    .dtext{
+    display: none;
+}
+    
+    .wz{
+    margin-left: 25%;
+    margin-right: 25%;
+    width: 50%;
+}
+    
+    .video{
+    width:  100%;
+    margin-left: 0%;
+    margin-right: 0%;
+}
+    
+    .webs{
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+    
+    .print{
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+
     
     
 }
