@@ -67,6 +67,15 @@ img{
     margin-left: 17.5vw;
     margin-right: 17.vw;
 }
+
+
+.video{
+    width:  65%;
+    margin-left: 17.5%;
+    margin-right: 17.5%;
+    margin-top: -150px;
+    margin-bottom: 100px;
+}
 /*  COLUMN SETUP  */
 .col {
     display: block;
