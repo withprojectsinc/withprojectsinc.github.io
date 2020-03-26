@@ -18,7 +18,7 @@ h1{
     font-family: arial;
     color: white;
     margin-left: 5%;
-    padding-bottom: 5%;
+/*    padding-bottom: 5%;*/
 }
 
 h2{
@@ -29,13 +29,14 @@ h2{
     margin-left: 0%;
 }
 
+
 .spacer{
-    margin: -150px;
+    margin: 250px;
 }
 
 .spacer2{
-    margin:100px;
-}
+margin:100px;}
+
 
 .wz{
     margin-left: 35%;
@@ -51,7 +52,7 @@ h2{
 
 
 .webs{
-    margin-top: -150px;
+/*    margin-top: -150px;*/
     width: 47.5%;
     margin-left: 26.25%;
     margin-right: 26.25%;
@@ -70,7 +71,7 @@ h2{
     margin: 0px;
     margin-left: 5%;
     margin-right: 5%;
-    padding-bottom: 250px;
+/*    padding-bottom: 250px;*/
 }
 
 img{
