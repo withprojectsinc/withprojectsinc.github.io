@@ -12,6 +12,14 @@ p {
     color: white;
 }
 
+.ss {
+    font-size: 1.75vw;
+    line-height: 1.4;
+    padding-bottom: 0px;
+    font-family: arial;
+    color: white;
+}
+
 h1{
     font-size: 1.3vw;
     line-height: 1.4;
@@ -28,6 +36,7 @@ h2{
     color: white;
     margin-left: 0%;
 }
+
 
 
 .spacer{
