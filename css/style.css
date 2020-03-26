@@ -17,7 +17,20 @@ h1{
     line-height: 1.4;
     font-family: arial;
     color: white;
-    margin-left: 17.5vw;
+    margin-left: 5%;
+    padding-bottom: 5%;
+}
+
+h2{
+    font-size: 1.3vw;
+    line-height: 1.4;
+    font-family: arial;
+    color: white;
+    margin-left: 0%;
+}
+
+.spacer{
+    margin: -150px;
 }
 
 /*  SECTIONS  */
@@ -38,7 +51,6 @@ img{
     width: 65vw;
     margin-left: 17.5vw;
     margin-right: 17.vw;
-    margin-top: 100px;
 }
 /*  COLUMN SETUP  */
 .col {
