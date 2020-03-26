@@ -181,7 +181,7 @@ img{
 }
 
 /*  GO FULL WIDTH BELOW 480 PIXELS */
-@media only screen and (max-width: 100px) {
+@media only screen and (max-width: 5px) {
     .col {
         margin: 0% 0 1% 5%;
     }
