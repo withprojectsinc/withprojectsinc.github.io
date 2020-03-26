@@ -1,5 +1,14 @@
 @import 'reset.css';
 
+@font-face {
+font-family: Union;
+ src: url("union_regular.otf");
+
+
+}
+
+
+
 html {
     background: black;
 }
@@ -8,7 +17,7 @@ p {
     font-size: 1.75vw;
     line-height: 1.3;
     padding-bottom: 25px;
-    font-family: arial;
+    font-family: Union;
     color: white;
 }
 
@@ -16,14 +25,14 @@ p {
     font-size: 1.75vw;
     line-height: 1.3;
     padding-bottom: 0px;
-    font-family: arial;
+    font-family: Union;
     color: white;
 }
 
 h1{
     font-size: 1.1vw;
     line-height: 1.3;
-    font-family: arial;
+    font-family: Union;
     color: white;
     margin-left: 5%;
 /*    padding-bottom: 5%;*/
@@ -32,7 +41,7 @@ h1{
 h2{
     font-size: 1.1vw;
     line-height: 1.3;
-    font-family: arial;
+    font-family: Union;
     color: white;
     margin-left: 0%;
     margin-bottom: 15px;
