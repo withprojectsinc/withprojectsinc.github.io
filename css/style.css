@@ -8,6 +8,26 @@ font-family: Union;
 }
 
 
+.newbg{
+    background-color: white;
+}
+.divider1{
+    width: 100vw;
+    height: 3px;
+    color: white;
+    background-color: white;
+}
+
+.abs{
+    color:grey;
+}
+
+.divider2{
+    width: 100vw;
+    height: 3px;
+    color: lightgrey;
+    background-color: grey;
+}
 
 html {
     background: black;
@@ -80,17 +100,17 @@ margin:7.5vh;}
 
 .webs{
 /*    margin-top: -150px;*/
-    width: 47.5%;
-    margin-left: 26.25%;
-    margin-right: 26.25%;
+    width: 75%;
+    margin-left: 12.5%;
+    margin-right: 12.5%;
 }
 
 
 
 .mscreens{
-    width: 47.5%;
-    margin-left: 26.25%;
-    margin-right: 26.25%;
+    width: 75%;
+    margin-left: 12.5%;
+    margin-right: 12.5%;
 }
 
   .mtext{
