@@ -14,6 +14,7 @@ font-family: Union;
 .divider1{
     width: 100vw;
     height: 3px;
+    margin-bottom: 10vh;
     color: white;
     background-color: white;
 }
@@ -26,6 +27,7 @@ font-family: Union;
     width: 100vw;
     height: 3px;
     color: lightgrey;
+    margin-bottom: 10vh;
     background-color: grey;
 }
 
